@@ -1,8 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU)]
-<h1 align="center">Hi 👋, I'm Yohannes Mengistu</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif" alt="Coding" width="400">
-
+<h1 align="center">Hi 👋, I'm Yohannes Mengistu</h1>
+<h3 align="center">Full-stack developer from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesmengistu&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesmengistu" /> </p>
 
 - 🔭 I’m currently working on [Mahibere Kidusan](Software Developer)
@@ -30,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesmengistu&show_icons=true&locale=en" alt="yohannesmengistu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannesmengistu&" alt="yohannesmengistu" /></p>
+
