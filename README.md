@@ -1,18 +1,13 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU)]
-<img src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif" alt="Coding" width="400">
 <h1 align="center">Hi 👋, I'm Yohannes Mengistu</h1>
 <h3 align="center">Full-stack developer from Ethiopia</h3>
+<img src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesmengistu&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesmengistu" /> </p>
 - 🔭 I’m currently working on [Mahibere Kidusan](Software Developer)
-
 - 🌱 I’m currently learning **React,Node and express**
-
 - 👨‍💻 All of my projects are available at [https://johnme7.netlify.app/](https://johnme7.netlify.app/)
-
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Node and .netcore,express**
-
 - 📫 How to reach me **yohannesmengistu7@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
