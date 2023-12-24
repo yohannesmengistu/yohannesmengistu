@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yohannes Mengistu</h1>
 <h3 align="center">Full-stack developer from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesmengistu&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesmengistu" /> </p>
-
 - 🔭 I’m currently working on [Mahibere Kidusan](Software Developer)
 
 - 🌱 I’m currently learning **React,Node and express**
