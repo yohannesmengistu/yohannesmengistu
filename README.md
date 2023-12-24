@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mahibere Kidusan](Software Developer)
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Node and .netcore,express**
+- 🌱 I’m currently learning **React,Node and express**
 
 - 👨‍💻 All of my projects are available at [https://johnme7.netlify.app/](https://johnme7.netlify.app/)
 
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesmengistu&show_icons=true&locale=en" alt="yohannesmengistu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannesmengistu&" alt="yohannesmengistu" /></p>
+
