@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesmengistu&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesmengistu" /> </p>
 - 🔭 I’m currently working on [Mahibere Kidusan](Software Developer)
 - 🌱 I’m currently learning **React,Node and express**
-- 👨‍💻 All of my projects are available at [https://johnme7.netlify.app/](https://johnme7.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://johnme7.netlify.app/]
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Node and .netcore,express**
 - 📫 How to reach me **yohannesmengistu7@gmail.com**
 - ⚡ Fun fact **I am Funny**
